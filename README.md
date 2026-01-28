@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+Avani Rayapureddi
 
-# Your Github username
+avraya-beep
